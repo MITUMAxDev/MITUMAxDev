@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitumaxdev" alt="mitumaxdev" /></a> </p>
 
-- 🔭 I’m currently working on [Azurium](https://discord.gg/azurium)
+- 🔭 I’m currently working on [Emperor](https://discord.gg/azurium)
 
 - 🌱 I’m currently learning **Information Technology - TATC**
 
